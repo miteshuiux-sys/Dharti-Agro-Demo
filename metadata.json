@@ -1,0 +1,6 @@
+{
+  "name": "Dharti Agro",
+  "description": "Precision agricultural machinery and industrial equipment manufacturing showcase with interactive product specs, quote builder, dealer search, and media gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
